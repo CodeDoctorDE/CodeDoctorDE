@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Linwood](https://github.com/CodeDoctorDE/Linwood)
 
-- 👯 I’m looking to collaborate on [Linwood](https://github.com/CodeDoctorDE/Linwood)
+- 👯 I’m looking to collaborate on [MinigamesParty](https://github.com/CodeDoctorDE/MinigamesParty)
 
 - ⚡ Fun fact **Flutter is lit!**
 
