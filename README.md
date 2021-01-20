@@ -9,8 +9,6 @@
 
 - ⚡ Fun fact **Flutter is lit!**
 
-<p align="left"><img height="32" width="32" style="filter: invert(50%)" src="https://unpkg.com/simple-icons@v4/icons/blender.svg" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedoctorde&layout=compact&theme=radical" alt="codedoctorde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codedoctorde&show_icons=true&theme=radical" alt="codedoctorde" /></p>
