@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Linwood Dev-Doctor](https://github.com/LinwoodCloud/dev-doctor)
 
-- 👯 I’m looking to collaborate on [Linwood Butterfly](https://github.com/LinwoodCloud/dev-doctor)
+- 👯 I’m looking to collaborate on [Linwood Butterfly](https://github.com/LinwoodCloud/butterfly)
 
 - ⚡ Fun fact **Flutter is lit!**
 
