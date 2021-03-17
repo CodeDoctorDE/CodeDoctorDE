@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedoctorde" alt="codedoctorde" /> </p>
 
-- 🔭 I’m currently working on [Linwood Dev-Doctor](https://github.com/LinwoodCloud/dev-doctor)
+💪 Current active projects:
+- [Linwood Bot, a modular discord bot](https://github.com/LinwoodCloud/Bot)
+- [Linwood Dev-Doctor, your free, opensource, serverless learning platform](https://github.com/LinwoodCloud/dev_doctor)
 
-- 👯 I’m looking to collaborate on [Linwood Butterfly](https://github.com/LinwoodCloud/butterfly)
+⏲ Current planned projects:
+- [Linwood Flow, time and event managment app](https://github.com/LinwoodCloud/Flow)
+- [Linwood Butterfly, create notes, tasks, presentations, graphics easily](https://github.com/LinwoodCloud/Bot)
 
-- ⚡ Fun fact **Flutter is lit!**
+⚡ Fun fact **Flutter is lit!**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedoctorde&layout=compact&theme=radical" alt="codedoctorde" /></p>
 
