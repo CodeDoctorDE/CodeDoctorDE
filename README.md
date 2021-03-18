@@ -6,6 +6,7 @@
 💪 Current active projects:
 - [Linwood Bot, a modular discord bot](https://github.com/LinwoodCloud/Bot)
 - [Linwood Dev-Doctor, your free, opensource, serverless learning platform](https://github.com/LinwoodCloud/dev_doctor)
+- [Linwood World, your free, opensource, modular voxel space game](https://github.com/LinwoodCloud/world)
 
 ⏲ Current planned projects:
 - [Linwood Flow, time and event managment app](https://github.com/LinwoodCloud/Flow)
