@@ -22,7 +22,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codedoctorde&show_icons=true&theme=radical" alt="codedoctorde" /></p>
 
+## Contact me
+
 <p align="center">
-<a href="https://twitter.com/codedoctorde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codedoctorde" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/vangorahd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vangorahd" height="30" width="30" /></a>
+<a href="https://twitter.com/codedoctorde" target="blank"><img style="filter: invert(0.5)" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="codedoctorde" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/vangorahd" target="blank"><img style="filter: invert(0.5)" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" alt="vangorahd" height="30" width="30" /></a>
 </p>
