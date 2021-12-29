@@ -5,12 +5,12 @@
 
 💪 Current active projects:
 - [Linwood Butterfly, create notes, tasks, presentations, graphics easily](https://github.com/LinwoodCloud/Butterfly)
+- [ItemMods, create items, blocks and more in minecraft (Spigot Plugin)](https://github.com/CodeDoctorDE/ItemMods)
 
 ⏲ Current planned projects:
 - [Linwood Flow, time and event managment app](https://github.com/LinwoodCloud/Flow)
 
 🟡 Current paused projects
-- [ItemMods, create items, blocks and more in minecraft (Spigot Plugin)](https://github.com/CodeDoctorDE/ItemMods)
 - [Linwood Dev-Doctor, your free, opensource, serverless learning platform](https://github.com/LinwoodCloud/dev_doctor)
 
 ⚡ Fun fact **Flutter is lit!**
