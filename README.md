@@ -6,13 +6,14 @@
 💪 Current active projects:
 - [Linwood Butterfly, create notes, tasks, presentations, graphics easily](https://github.com/LinwoodCloud/Butterfly)
 
-⏲ Current planned projects:
-- [Linwood Flow, time and event managment app](https://github.com/LinwoodCloud/Flow)
+⏲ Current projects in work in progress:
+- [Fornax Language, a compiled simple, typesafe, efficient programming language](https://github.com/FornaxTeam/fornax-lang)
 
 🟡 Current paused projects
 - [Linwood Dev-Doctor, your free, opensource, serverless learning platform](https://github.com/LinwoodCloud/dev_doctor)
 - [ItemMods, create items, blocks and more in minecraft (Spigot Plugin)](https://github.com/CodeDoctorDE/ItemMods)
 - [ProtocolOcean, enchance the minecraft client serverside](https://github.com/CodeDoctorDE/ProtocolOcean)
+- [Linwood Flow, time and event managment app](https://github.com/LinwoodCloud/Flow)
 
 ⚡ Fun fact **Flutter is lit!**
 
