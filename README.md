@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CodeDoctorDE</h1>
-<h3 align="center">German front- and backend developer with many opensource projects</h3>
+<h3 align="center">German front- and backend developer with 💙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedoctorde" alt="codedoctorde" /> </p>
 
