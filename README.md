@@ -9,9 +9,10 @@
 
 ⏲ Current projects in work in progress:
 - [Linwood Asset System, static asset library](https://github.com/LinwoodDev/AssetSystem)
+- [Linwood Vulpine, your gui for your favorite cli](https://github.com/LinwoodDev/Vulpine)
 
 🟡 Current paused projects
-- [Fornax Language, a compiled simple, typesafe, efficient programming language](https://github.com/FornaxTeam/fornax-lang)
+- [Fornax Qeck, a multiplayer game sandbox](https://github.com/FornaxTeam/fornax-lang)
 
 ⚡ Fun fact **Flutter is lit!**
 
