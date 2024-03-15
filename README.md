@@ -12,7 +12,7 @@
 - [Linwood Vulpine, your gui for your favorite cli](https://github.com/LinwoodDev/Vulpine)
 
 🟡 Current paused projects
-- [Fornax Qeck, a multiplayer game sandbox](https://github.com/FornaxTeam/fornax-lang)
+- [Linwood Qeck, a multiplayer game sandbox](https://github.com/LinwoodDev/Qeck)
 
 ⚡ Fun fact **Flutter is lit!**
 
