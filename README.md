@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm CodeDoctorDE</h1>
-<h3 align="center">German front- and backend developer with 💙</h3>
+<h3 align="center">German front- and backend developer with 💚</h3>
+
+<p align="center">
+    <a href="https://linwood.dev"><b>Website</b></a> •
+    <a href="https://github.com/LinwoodDev"><b>Projects</b></a> •
+    <a href="https://linwood.dev/matrix"><b>Matrix</b></a> •
+    <a href="https://go.linwood.dev/discord"><b>Discord</b></a> •
+    <a href="https://alpaka.social/@codedoctor"><b>Mastodon</b></a> •
+    <a href="https://bsky.app/profile/codedoctor"><b>Bluesky</b></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedoctorde" alt="codedoctorde" /> </p>
 
@@ -9,21 +18,13 @@
 
 ⏲ Current projects in work in progress:
 - [Linwood Asset System, static asset library](https://github.com/LinwoodDev/AssetSystem)
-- [Linwood Vulpine, your gui for your favorite cli](https://github.com/LinwoodDev/Vulpine)
+- [Linwood Quokka, a multiplayer card/board sandbox game](https://github.com/LinwoodDev/Quokka)
 
 🟡 Current paused projects
-- [Linwood Qeck, a multiplayer game sandbox](https://github.com/LinwoodDev/Qeck)
+- [Linwood Vulpine, your gui for your favorite cli](https://github.com/LinwoodDev/Vulpine)
 
 ⚡ Fun fact **Flutter is lit!**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedoctorde&layout=compact&theme=radical" alt="codedoctorde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codedoctorde&show_icons=true&theme=radical" alt="codedoctorde" /></p>
-<br/>
-
-## Contact me
-
-<p align="center">
-<a href="https://twitter.com/codedoctorde" target="blank"><img style="filter: invert(0.5)" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="codedoctorde" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/vangorahd" target="blank"><img style="filter: invert(0.5)" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" alt="vangorahd" height="30" width="30" /></a>
-</p>
