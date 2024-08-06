@@ -7,7 +7,7 @@
     <a href="https://linwood.dev/matrix"><b>Matrix</b></a> •
     <a href="https://go.linwood.dev/discord"><b>Discord</b></a> •
     <a href="https://alpaka.social/@codedoctor"><b>Mastodon</b></a> •
-    <a href="https://bsky.app/profile/codedoctor"><b>Bluesky</b></a>
+    <a href="codedoctor.bsky.social"><b>Bluesky</b></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedoctorde" alt="codedoctorde" /> </p>
