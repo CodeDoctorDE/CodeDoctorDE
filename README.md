@@ -8,7 +8,7 @@
     <a href="https://linwood.dev/matrix"><b>Matrix</b></a> •
     <a href="https://go.linwood.dev/discord"><b>Discord</b></a> •
     <a href="https://alpaka.social/@codedoctor"><b>Mastodon</b></a> •
-    <a href="codedoctor.bsky.social"><b>Bluesky</b></a>
+    <a href="https://codedoctor.bsky.social"><b>Bluesky</b></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedoctorde" alt="codedoctorde" /> </p>
@@ -29,7 +29,7 @@
 - **Web Development:** Astro (TypeScript), Leptos (Rust), SolidJS (TypeScript), React (TypeScript)
 - **Game Development:** Godot (mainly C#), Blender
 - **Addon Development:** Minestom (Java/Minecraft), Serenity (Rust/Discord)
-- **Design:** Figma, Affinity Designer
+- **Design:** Figma, Affinity Designer, Krita
 - **Operating System:** Fedora (as main os), Ubuntu (for servers), Windows (for gaming)
 
 ---
